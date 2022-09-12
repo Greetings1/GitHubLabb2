@@ -21,22 +21,30 @@ void DisplayMenu()
 
 void ReadInput()
 {
-    switch (Int32.Parse(Console.ReadLine()))
+    try
     {
-        case 1:
-            Console.WriteLine("Skönt. Då slipper vi ringa och klaga på att varorna inte levereras i tid.");
-            break;
-        case 2:
-            Console.WriteLine("Hellre mer i lager än för lite...");
-            break;
-        case 3:
-            Console.WriteLine("Vad väntar du på? Börja inventera hyllorna!");
-            break;
-        case 4:
-            isRunning = false;
-            Console.WriteLine("Bra jobbat. Ses imorgon.");
-            break;
-        default:
-            break;
+        switch (Int32.Parse(Console.ReadLine()))
+        {
+            case 1:
+                Console.WriteLine("Skönt. Då slipper vi ringa och klaga på att varorna inte levereras i tid.");
+                break;
+            case 2:
+                Console.WriteLine("Hellre mer i lager än för lite...");
+                break;
+            case 3:
+                Console.WriteLine("Vad väntar du på? Börja inventera hyllorna!");
+                break;
+            case 4:
+                isRunning = false;
+                Console.WriteLine("Bra jobbat. Ses imorgon.");
+                break;
+            default:
+                Console.WriteLine("Uhm, 1, 2, 3 eller 4 buddy?");
+                break;
+        }
+    }
+    catch (FormatException)
+    {
+        Console.WriteLine("Uhm, 1, 2, 3 eller 4 buddy?");
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\bin\Debug\net6.0\GitHubLabb2.exe
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\bin\Debug\net6.0\GitHubLabb2.deps.json
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\bin\Debug\net6.0\GitHubLabb2.runtimeconfig.json
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\bin\Debug\net6.0\GitHubLabb2.dll
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\bin\Debug\net6.0\GitHubLabb2.pdb
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\GitHubLabb2.csproj.AssemblyReference.cache
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\GitHubLabb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\GitHubLabb2.AssemblyInfoInputs.cache
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\GitHubLabb2.AssemblyInfo.cs
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\GitHubLabb2.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\GitHubLabb2.dll
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\refint\GitHubLabb2.dll
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\GitHubLabb2.pdb
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\GitHubLabb2.genruntimeconfig.cache
+C:\Users\Oscar Eriksson\source\repos\GitHubLabb2\GitHubLabb2\obj\Debug\net6.0\ref\GitHubLabb2.dll
