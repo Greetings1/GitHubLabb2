@@ -14,7 +14,7 @@ while (isRunning)
 void DisplayMenu()
 {
 
-    Console.WriteLine("======MAT-MATS LOGISTIK======\n1. Registrera ny leverans\n2. Beställ mer\n3. Ny inventering\n4. Stäng");
+    Console.WriteLine("======MAT-MATS LOGISTIK======\n1. Registrera ny leverans\n2. Beställ mer\n3. Ny inventering\n4. Frågor?\n5. Stäng");
     Console.Write(">");
 
 }
@@ -35,6 +35,9 @@ void ReadInput()
                 Console.WriteLine("Vad väntar du på? Börja inventera hyllorna!");
                 break;
             case 4:
+                Console.WriteLine("Lista ut det själv!");
+                break;
+            case 5:
                 isRunning = false;
                 Console.WriteLine("Bra jobbat. Ses imorgon.");
                 break;
